@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋 I'm Chandralekha Kanse
 
-<!--
-**kansechandralekha10-glitch/kansechandralekha10-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data scientist | Machine Learning Enthusiast | GenAI Developer
 
-Here are some ideas to get you started:
+🔹 Skilled in:
+Python, SQL, Machine Learning, NLP, LangChain, RAG
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Currently Working On:
+RAG Chatbots, LLM Applications
+
+🔹 Projects
+• NLP Spam Detection
+• Live Showroom Chatbot
+
+📫 Contact:
+www.linkedin.com/in/chandralekha-kanse-1a0a47119 |chandralekhakanse1997@gmail.com
