@@ -14,4 +14,4 @@ RAG Chatbots, LLM Applications
 
 📫 Contact:
 www.linkedin.com/in/chandralekha-kanse-1a0a47119 |chandralekhakanse1997@gmail.com
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kansechandralekha10-glitch&show_icons=true&theme=radical)
+
